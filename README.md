@@ -87,5 +87,6 @@ R5 – Final Refusal Logic
 
 ---
 
-## 👩‍💻 Author
+## Author
 Mageshwari K
+Kanagalakshimi P
